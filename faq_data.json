@@ -1,0 +1,74 @@
+[
+  {
+    "id": "gen_1",
+    "category": "General",
+    "question": "What is AetherAI and how does it work?",
+    "answer": "AetherAI is a next-generation workspace assistant that seamlessly integrates with your daily productivity tools. It processes your text, notes, and tasks using localized natural language processing to automatically summarize meetings, draft structured documents, categorize tasks, and answer complex questions based on your personal knowledge base."
+  },
+  {
+    "id": "gen_2",
+    "category": "General",
+    "question": "How do I get started with AetherAI?",
+    "answer": "Getting started is simple! Download the AetherAI desktop client or log in via our web dashboard. Once inside, connect your workspace accounts (such as email, calendar, and document storage) using our intuitive, one-click integration hub. The assistant will analyze your public workspace history and build a local semantic index to help you immediately."
+  },
+  {
+    "id": "gen_3",
+    "category": "General",
+    "question": "Is there a desktop application available?",
+    "answer": "Yes! AetherAI is available as a native, high-performance desktop application for macOS (M-series and Intel), Windows 11, and Linux. The desktop version includes offline search capabilities, custom global keyboard shortcuts, and deeper integration with system-level applications."
+  },
+  {
+    "id": "feat_1",
+    "category": "Features",
+    "question": "How does semantic search work in AetherAI?",
+    "answer": "Unlike traditional keyword searching, AetherAI's semantic search uses deep-learning text embeddings to understand the meaning and context of your search queries. For example, searching for 'budget discussion last winter' will find documents and chat logs discussing financial planning from November to February, even if those exact words are not present."
+  },
+  {
+    "id": "feat_2",
+    "category": "Features",
+    "question": "Can I connect third-party integrations like Slack or Notion?",
+    "answer": "Absolutely! AetherAI features a robust integration ecosystem. You can connect Notion, Slack, Google Workspace, GitHub, Microsoft 365, and Figma with two-way sync. This allows AetherAI to cross-reference tasks, pull context from your team chats, and keep your documentation up to date across all platforms."
+  },
+  {
+    "id": "feat_3",
+    "category": "Features",
+    "question": "Does AetherAI support offline workspace operation?",
+    "answer": "Yes, offline productivity is a core pillar of AetherAI. All your workspace indexes, notes, and local databases are cached securely on your physical device. You can search, edit, write, and interact with the AI offline; once you reconnect to the network, your changes will sync seamlessly."
+  },
+  {
+    "id": "sec_1",
+    "category": "Security & Privacy",
+    "question": "Is my workspace data used to train AI models?",
+    "answer": "Never. At AetherAI, privacy is a fundamental right. Your workspace data, notes, indexing, and chat transcripts are strictly yours. We do not use your data, queries, or documents to train our core AI models or any third-party foundation models."
+  },
+  {
+    "id": "sec_2",
+    "category": "Security & Privacy",
+    "question": "How does AetherAI secure my sensitive documents?",
+    "answer": "All your data is protected using AES-256 encryption at rest and TLS 1.3 encryption in transit. For our Enterprise customers, we offer end-to-end encryption (E2EE) where the encryption keys are managed solely by your IT department, ensuring absolute zero-knowledge storage."
+  },
+  {
+    "id": "sec_3",
+    "category": "Security & Privacy",
+    "question": "Is AetherAI fully SOC2 and GDPR compliant?",
+    "answer": "Yes, AetherAI is SOC 2 Type II certified and fully compliant with the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA). You have complete control over your data, including one-click options to export your entire index or permanently delete your account."
+  },
+  {
+    "id": "bill_1",
+    "category": "Billing & Plans",
+    "question": "What subscription plans does AetherAI offer?",
+    "answer": "We offer three flexible tiers: \n1. **Personal** (Free): Core note-taking, local indexing, and 100 AI queries/month.\n2. **Pro** ($15/month billed annually): Unlimited AI queries, full integration suite, cross-device sync, and advanced semantic search.\n3. **Enterprise** (Custom): Dedicated cloud hosting, end-to-end encryption, custom system integrations, and 24/7 priority support."
+  },
+  {
+    "id": "bill_2",
+    "category": "Billing & Plans",
+    "question": "Can I cancel or change my plan at any time?",
+    "answer": "Yes, you can upgrade, downgrade, or cancel your subscription at any time directly through your billing portal settings. If you upgrade, the new features will be unlocked immediately and the price will be prorated. If you cancel, you will retain access to Pro features until the end of your current billing cycle."
+  },
+  {
+    "id": "bill_3",
+    "category": "Billing & Plans",
+    "question": "Do you offer a free trial for the Pro plan?",
+    "answer": "Yes! We offer a 14-day fully-featured free trial of the AetherAI Pro plan for all new accounts. No credit card is required to start the trial, giving you complete freedom to explore all our advanced search and integration features risk-free."
+  }
+]
